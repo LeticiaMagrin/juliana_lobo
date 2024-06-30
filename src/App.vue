@@ -8,7 +8,7 @@ import Home from './components/Home.vue'
 <template>
   
   <Head/>
-  <Home msg="Juliana Lobo" />
+  <Home msg="Juliana Lobo Psicóloga" />
 </template>
 
 <style scoped>
