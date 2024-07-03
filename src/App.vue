@@ -1,7 +1,8 @@
 <script setup>
 
 import Head from "./components/Head.vue";
-import Home from './components/Home.vue'
+import Home from './components/Home.vue';
+import Footer from "./components/Footer.vue";
 
 </script>
 
@@ -9,6 +10,7 @@ import Home from './components/Home.vue'
   
   <Head/>
   <Home msg="Juliana Lobo Psicóloga" />
+  <Footer/>
 </template>
 
 <style scoped>
